@@ -1,3 +1,6 @@
+app/* linguist-documentation=false
+app/* linguist-vendored
+
 .DS_Store
 node_modules
 /dist
